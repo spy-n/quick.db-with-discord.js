@@ -46,4 +46,4 @@ var embed = new Discord.MessageEmbed() //i do a embed 👍
 message.channel.send(embed)
 
 
-//I hope it has served you 👍, any questions join here https://discord.gg/waddj7dPx5
+//I hope it has served you 👍
